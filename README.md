@@ -14,7 +14,7 @@ This example Dash application lets users track changes in stock prices over time
 * [Streamlit](https://docs.posit.co/connect-cloud/how-to/python/streamlit.html){:target="_blank"} 
 * [Dash](https://docs.posit.co/connect-cloud/how-to/python/dash.html){:target="_blank"} 
 * [Bokeh](https://docs.posit.co/connect-cloud/how-to/python/bokeh.html){:target="_blank"} 
-* Quarto with Python and [Quarto with R](https://docs.posit.co/connect-cloud/how-to/r/quarto-r.html){:target="_blank"} 
+* Quarto with Python and [Quarto with R](https://docs.posit.co/connect-cloud/how-to/r/quarto-r.html){target="_blank"} 
 * Jupyter Notebooks
 * R Markdown
 
