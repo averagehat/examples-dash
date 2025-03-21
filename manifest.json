@@ -1,0 +1,36 @@
+{
+  "version": 1,
+  "locale": "en_US.UTF-8",
+  "metadata": {
+    "appmode": "python-api",
+    "entrypoint": "app"
+  },
+  "python": {
+    "version": "3.11.11",
+    "package_manager": {
+      "name": "pip",
+      "version": "24.1.2",
+      "package_file": "requirements.txt"
+    }
+  },
+  "files": {
+    "requirements.txt": {
+      "checksum": "4ac4d5d41f785d9eb60207f93a507935"
+    },
+    ".gitignore": {
+      "checksum": "9c79416d7902e679c44d409517742294"
+    },
+    "README.md": {
+      "checksum": "1a065905a3e0ab9edd4df3280abc25b1"
+    },
+    "app.py": {
+      "checksum": "809a0f6ce1452c842ba9db910c5d0e2a"
+    },
+    "dash-stock-pricing.png": {
+      "checksum": "443950aea92fd5479e0b813d28a845a0"
+    },
+    "prices.csv": {
+      "checksum": "90a908060f20dfa7e229e631a42c5081"
+    }
+  }
+}
